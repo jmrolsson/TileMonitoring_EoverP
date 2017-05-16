@@ -3,5 +3,5 @@ The E/p observable measures the calorimeter response to single isolated hadrons,
 
 NB: This repository only contains additions I made to the [TileCalorimeter/TileMonitoring package](https://svnweb.cern.ch/trac/atlasoff/browser/TileCalorimeter/TileMonitoring/trunk). For the full monitoring package, including my E/p additions, you want to go here (ATLAS internal only): https://gitlab.cern.ch/jolsson/TileMonitoring
 
-Documentation lives here: https://twiki.cern.ch/twiki/bin/viewauth/Atlas/TileEoverPMonTool
+Documentation for how to run the E/p monitoring tool lives here: https://twiki.cern.ch/twiki/bin/viewauth/Atlas/TileEoverPMonTool
 
